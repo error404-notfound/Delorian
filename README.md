@@ -36,23 +36,23 @@ tener mejores resultados, lo mismo con los troyanos.</p>
 <hr>
 <h6>Visitamos en nuestra redes sociales ayudanos con tu like.</h6>
 <br>
-Visita nuestra canal de youtube
+Visita nuestra canal de youtube:
 https://www.youtube.com/channel/UC9ZtujTcMuBcKsV4-4G9Zxg
 
-Visita nuestra cuenta de Facebook
+Visita nuestra cuenta de Facebook:
 https://www.facebook.com/error4o4.org
 
-También estamos en Twitter
+También estamos en Twitter:
 https://twitter.com/error4o4org
 
-Canal de Telegram
+Canal de Telegram:
 https://t.me/error404notfound4
 
-Grupo de Telegraam
+Grupo de Telegram:
 https://t.me/error404notfounda
 
-Visita nuestra cuenta de GitHub
+Visita nuestra cuenta de GitHub:
 https://github.com/error404-notfound
 
-Cuenta PayPal para sus donativo
+Cuenta PayPal para sus donativo:
 https://www.paypal.me/error404notjavic
