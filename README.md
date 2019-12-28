@@ -45,7 +45,8 @@ https://www.facebook.com/error4o4.org
 También estamos en Twitter
 https://twitter.com/error4o4org
 
-Visita nuestra cuenta de GitHub https://github.com/error404-notfound
+Visita nuestra cuenta de GitHub
+https://github.com/error404-notfound
 
 Cuenta PayPal para sus donativo
 https://www.paypal.me/error404notjavic
