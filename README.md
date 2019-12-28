@@ -12,7 +12,7 @@ en nuestro canal de Youtube para mostrar un adelanto, la herramienta se quedo gu
 creadas con el fin de no vulnerar a nadie o mentir a nadie para tomar el acceso de su android o windows, pero se pueden editar para 
 tener mejores resultados, lo mismo con los troyanos.</p>
 <hr>
-<h5>Se recomienda testear primero</h5>
+<h5>Se recomienda testear primero para no andar desorientado/a.</h5>
 <hr>
 <h6>Muestra:</h6>
 <img src="foto.png">
