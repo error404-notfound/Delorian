@@ -45,6 +45,12 @@ https://www.facebook.com/error4o4.org
 También estamos en Twitter
 https://twitter.com/error4o4org
 
+Canal de Telegram
+https://t.me/error404notfound4
+
+Grupo de Telegraam
+https://t.me/error404notfounda
+
 Visita nuestra cuenta de GitHub
 https://github.com/error404-notfound
 
