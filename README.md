@@ -13,7 +13,7 @@ creadas con el fin de no vulnerar a nadie o mentir a nadie para tomar el acceso 
 tener mejores resultados, lo mismo con los troyanos.</p>
 <hr>
 <h6>Muestra:</h6>
-<img src="foto.jpg">
+<img src="foto.png">
 <hr>
 <h6>instalacion</h6>
 <p>git clone https://github.com/error404-notfound/Delorian</p>
