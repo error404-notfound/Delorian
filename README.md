@@ -22,3 +22,28 @@ tener mejores resultados, lo mismo con los troyanos.</p>
 <p>chmod 777 script.sh</p>
 <p>bash install.sh</p> 
 <p>./Delorian</p>
+<hr>
+<h6>Informacion:</h6>
+<p>La index de windows se guardara en la ruta: /usr/delorian/windows/sitio</p>
+<p>La index de android se guardara en la ruta: /usr/delorian/android/sitio/</p>
+<br>
+<p>Las index son 100% modificables, las que trae pre editadas solamente son para muestra, ya si quisieramos algo mas serio tocaria editarlas acorde a la ingenieria social que vayamos hacer en el momento.</p>
+<hr>
+<p>Troyano Windows /usr/delorian/windows/upfirewall.exe</p>
+<p>Troyano Android /usr/delorian/android/android.apk</p>
+<hr>
+<h6>Visitamos en nuestra redes sociales ayudanos con tu like.</h6>
+<br>
+Visita nuestra canal de youtube
+https://www.youtube.com/channel/UC9ZtujTcMuBcKsV4-4G9Zxg
+
+Visita nuestra cuenta de Facebook
+https://www.facebook.com/error4o4.org
+
+También estamos en Twitter
+https://twitter.com/error4o4org
+
+Visita nuestra cuenta de GitHub https://github.com/error404-notfound
+
+Cuenta PayPal para sus donativo
+https://www.paypal.me/error404notjavic
