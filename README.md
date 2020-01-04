@@ -15,7 +15,7 @@ tener mejores resultados, lo mismo con los troyanos.</p>
 <h5>Se recomienda testear primero para no andar desorientado/a, video tutorial en nuestro canal de Youtube.</h5>
 <hr>
 <h6>Muestra:</h6>
-<video src="foto.png" autoplay muted loop></video>
+<img str="foto.png">
 <hr>
 <h6>instalacion</h6>
 <p>git clone https://github.com/error404-notfound/Delorian</p>
